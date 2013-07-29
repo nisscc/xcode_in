@@ -40,25 +40,25 @@
 		760C4B4717A2B1E100C02582 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		760C4B4917A2B1E100C02582 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		760C4B4B17A2B1E200C02582 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		760C4B4F17A2B1E200C02582 /* Niss-x-Info.plist */ = {isa = PBXFileReference; path = "Niss-x-Info.plist"; sourceTree = "<group>"; };
+		760C4B4F17A2B1E200C02582 /* Niss-x-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Niss-x-Info.plist"; sourceTree = "<group>"; };
 		760C4B5117A2B1E300C02582 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		760C4B5317A2B1E300C02582 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		760C4B5517A2B1E400C02582 /* Niss-x-Prefix.pch */ = {isa = PBXFileReference; path = "Niss-x-Prefix.pch"; sourceTree = "<group>"; };
-		760C4B5617A2B1E400C02582 /* XYZAppDelegate.h */ = {isa = PBXFileReference; path = XYZAppDelegate.h; sourceTree = "<group>"; };
+		760C4B5517A2B1E400C02582 /* Niss-x-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Niss-x-Prefix.pch"; sourceTree = "<group>"; };
+		760C4B5617A2B1E400C02582 /* XYZAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XYZAppDelegate.h; sourceTree = "<group>"; };
 		760C4B5717A2B1E400C02582 /* XYZAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XYZAppDelegate.m; sourceTree = "<group>"; };
-		760C4B5917A2B1E500C02582 /* XYZRootViewController.h */ = {isa = PBXFileReference; path = XYZRootViewController.h; sourceTree = "<group>"; };
+		760C4B5917A2B1E500C02582 /* XYZRootViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XYZRootViewController.h; sourceTree = "<group>"; };
 		760C4B5A17A2B1E600C02582 /* XYZRootViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XYZRootViewController.m; sourceTree = "<group>"; };
-		760C4B5C17A2B1E700C02582 /* XYZDataViewController.h */ = {isa = PBXFileReference; path = XYZDataViewController.h; sourceTree = "<group>"; };
+		760C4B5C17A2B1E700C02582 /* XYZDataViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XYZDataViewController.h; sourceTree = "<group>"; };
 		760C4B5D17A2B1E800C02582 /* XYZDataViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XYZDataViewController.m; sourceTree = "<group>"; };
-		760C4B5F17A2B1E800C02582 /* XYZModelController.h */ = {isa = PBXFileReference; path = XYZModelController.h; sourceTree = "<group>"; };
+		760C4B5F17A2B1E800C02582 /* XYZModelController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XYZModelController.h; sourceTree = "<group>"; };
 		760C4B6017A2B1E900C02582 /* XYZModelController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XYZModelController.m; sourceTree = "<group>"; };
 		760C4B6317A2B1EB00C02582 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		760C4B6617A2B1EC00C02582 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
 		760C4B6D17A2B1F700C02582 /* Niss-xTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Niss-xTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		760C4B6E17A2B1F700C02582 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		760C4B7617A2B1F800C02582 /* Niss-xTests-Info.plist */ = {isa = PBXFileReference; path = "Niss-xTests-Info.plist"; sourceTree = "<group>"; };
+		760C4B7617A2B1F800C02582 /* Niss-xTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Niss-xTests-Info.plist"; sourceTree = "<group>"; };
 		760C4B7817A2B1F800C02582 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		760C4B7A17A2B1FA00C02582 /* Niss_xTests.h */ = {isa = PBXFileReference; path = Niss_xTests.h; sourceTree = "<group>"; };
+		760C4B7A17A2B1FA00C02582 /* Niss_xTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Niss_xTests.h; sourceTree = "<group>"; };
 		760C4B7B17A2B1FB00C02582 /* Niss_xTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Niss_xTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 

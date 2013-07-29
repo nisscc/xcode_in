@@ -2,7 +2,7 @@
 //  XYZAppDelegate.h
 //  Niss-x
 //
-//  Created by Jacky on 13-7-26.
+//  Created by Jacky. on 13-7-26.
 //  Copyright (c) 2013年 NiSS. All rights reserved.
 //
 
